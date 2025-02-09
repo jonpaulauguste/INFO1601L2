@@ -1,0 +1,14 @@
+      a :visited{
+        color: green;
+      }
+
+      a :hover{
+        color: blue;
+        font-weight: bold;
+        font-size: 40px;
+      }
+
+      a :active{
+        color: yellow;
+      }
+  
